@@ -1,6 +1,3 @@
-Description:
-
-This is a java program creates a menu that allows for a 'customer' to register for an appointment for a dog spa, pick the services they want, and print out the reciept in a separate text file.
 
 How to use:
 
